@@ -93,7 +93,7 @@ Join our growing community around the world! Follow us on [Twitter](https://twit
 
 ## Contributing
 
-All code contributions - including those of people having commit access - must go through a pull request and approved by a core developer before being merged. This is to ensure proper review of all the code.
+All code contributions - including those of people having commit access - must go through a pull request and approved by a core developer before being merged. This is to ensure proper review of all the code. Through pull request you can contribute or fix the issues related to the repository and when it will be merged by maintainer the modifications done by you would be included in original repository.
 
 We truly ❤️ pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide](CONTRIBUTING.md).
 
